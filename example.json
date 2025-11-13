@@ -1,0 +1,15 @@
+{
+    "name": "novelname",
+    "stages":[
+        {   
+            "name": "stagename",
+            "text":"stagetext",
+            "variants":[
+                {
+                    "text":"varianttext",
+                    "goto":"gotoname"
+                }
+            ]
+        }
+    ]
+}
